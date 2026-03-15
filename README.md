@@ -295,4 +295,3 @@ Deployment process:
 # Author
 
 Dhwanit Desai
-AI • Machine Learning • MLOps
